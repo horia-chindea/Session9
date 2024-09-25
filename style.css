@@ -40,6 +40,10 @@ button {
     background-color: rgb(103, 142, 241);
     color: white;
 }
+button:hover {
+    cursor: pointer;
+    box-shadow: 0 0 7px 0 rgba(0,0,0,0.4);
+}
 .info {
     background-color: rgb(235, 155, 7);
 }
