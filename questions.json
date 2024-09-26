@@ -132,7 +132,7 @@
              {
                 "text":"A. &lt;img src='image.jpg' alt='My Image'&gt;",
                 "corect":true,
-                "explicatie":"Elementul &lt;img&gt; în HTML este folosit pentru a adăuga o imagine pe pagină, iar atributul 'src' specifică calea către imagine."
+                "explicatie":"Elementul <img> în HTML este folosit pentru a adăuga o imagine pe pagină, iar atributul 'src' specifică calea către imagine."
              },
              {
                 "text":"B. &lt;image src='image.jpg' alt='My Image'&gt;",
@@ -226,7 +226,7 @@
              {
                "text":"B. &lt;!-- Acesta este un comentariu --&gt;",
                "corect":true,
-               "explicatie":"În HTML, comentariile sunt adăugate cu &lt;!-- acesta este un comentariu --&gt;."
+               "explicatie":"În HTML, comentariile sunt adăugate cu <!-- acesta este un comentariu -->."
             },
              {
                 "text":"C. # Acesta este un comentariu",
@@ -384,7 +384,7 @@
              {
                 "text":"A. &lt;hr&gt;",
                 "corect":true,
-                "explicatie":"Elementul &lt;hr&gt; în HTML adaugă o linie orizontală pentru a separa conținutul."
+                "explicatie":"Elementul <hr>; în HTML adaugă o linie orizontală pentru a separa conținutul."
              },
              {
                 "text":"B. &lt;line&gt;",
