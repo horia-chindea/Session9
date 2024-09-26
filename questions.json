@@ -382,7 +382,7 @@
           "text":"Cum se adaugă o linie orizontală în HTML?",
           "raspunsuri":[
              {
-                "text":"A. &lt;hr&gt;",
+                "text":"A. &lt;hr&gt;" ,
                 "corect":true,
                 "explicatie":"Elementul <hr>; în HTML adaugă o linie orizontală pentru a separa conținutul."
              },
